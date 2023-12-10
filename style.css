@@ -1,0 +1,76 @@
+
+
+.nav-pills a{
+    color: whitesmoke;
+    background-color: #721cb8;
+    border-color: #721cb8;
+    border-width: 2px;
+    border-style: solid;
+    margin: 3px;
+}
+
+
+.nav-pills a:hover{
+    color: black;
+    background-color: #9cf945;
+    border-color: #9cf945;
+}
+
+#titulo {
+    color: #f6f0ff;
+}
+
+.btn-success {
+    color: black !important;
+    background-color: #9CF945 !important;
+    border-color: #9CF945 !important;
+}
+
+.btn-success:hover {
+    background-color: #8EDF34 !important;
+    border-color: #8EDF34 !important;
+}
+
+.imagen {
+    opacity: 40%;
+}
+
+.iconos {
+    color: #995BD5;
+}
+
+.hab_titulos {
+    color: #BF99F2;
+}
+
+.boton {
+    color: black !important;
+    background-color: #8EDF34 !important;
+    border-color: #8EDF34 !important;
+}
+
+.boton_2 {
+    color: whitesmoke !important;
+    background-color: #721cb8 !important;
+    border-color: #721cb8 !important;
+}
+
+.iconos_links {
+    color: #9CF945 !important;
+}
+
+.iconos_links_2 {
+    color: #995BD5 !important;
+}
+
+.pr_link {
+    color: #995BD5 !important;
+}
+
+.pr_link:hover {
+    color: #BF99F2 !important;
+}
+
+.icon_link {
+    color: #9CF945;
+}
